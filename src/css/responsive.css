@@ -1,0 +1,551 @@
+@media only screen and (min-width: 960px) and (max-width: 1200px) {
+.menu a {
+	font-size: 13px;
+	padding: 9px;
+}
+.activity img {
+	width: 100%
+}
+#aboutus {
+	padding: 50px 0 50px;
+}
+.about {
+	text-align: center;
+	margin-top: 0px;
+}
+.Beginnings {
+	width: 35%;
+	margin-top: 60px;
+}
+.aboutimg {
+	width: 65%;
+}
+.aboutimg img {
+	margin-top: 60px;
+}
+.facing {
+	width: 35%;
+}
+.startup {
+	width: 30%;
+}
+.enter {
+	width: 65%;
+}
+.December {
+	margin-top: 20px;
+	width: 35%;
+}
+.our {
+	width: 30%;
+}
+.february {
+	width: 35%;
+}
+}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {
+.menu a {
+	padding: 8px;
+	font-size: 15px;
+}
+.logo {
+	margin-top: 15px;
+}
+.more a {
+	font-size: 15px;
+}
+.sitesaction {
+	padding: 50px 0 50px;
+}
+#project {
+	padding: 50px 0 50px;
+}
+#team {
+	padding: 50px 0 50px;
+}
+.activity img {
+	width: 100%
+}
+#aboutus {
+	padding: 50px 0 50px;
+}
+.about {
+	text-align: center;
+	margin-top: 0px;
+}
+.line img {
+	display: none;
+}
+.Beginnings {
+	width: 52%;
+}
+.aboutimg {
+	width: 90%;
+}
+.aboutimg img {
+	margin-top: 60px;
+}
+.startup {
+	width: 80%;
+	margin-top: 30px;
+}
+.facing {
+	width: 52%;
+	margin-top: 30px;
+}
+.enter {
+	width: 90%;
+	margin-top: 30px;
+}
+.December {
+	width: 52%;
+	margin-top: 30px;
+}
+.february {
+	width: 52%;
+	margin-top: 30px;
+}
+.our {
+	width: 80%;
+	margin-top: 30px;
+}
+.next {
+	margin-top: 50px;
+}
+.teamleader img {
+	width: 100%;
+}
+.comptitle img {
+	width: 100%;
+}
+.contact h2 {
+	margin-top: 60px;
+}
+.contactus input {
+	font-size: 14px;
+	width: 90%;
+}
+.msgbutton a {
+	font-size: 14px;
+	width: 40%;
+}
+}
+
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 640px) and (max-width: 766px) {
+#manu {
+	min-height: 600px;
+}
+.studio h2 {
+	font-size: 60px;
+}
+.studio h3 {
+	font-size: 35px;
+}
+.more a {
+	font-size: 13px;
+	padding: 15px 0 15px;
+}
+.sitesaction {
+	padding: 50px 0 50px;
+}
+#project {
+	padding: 50px 0 50px;
+}
+#team {
+	padding: 50px 0 50px;
+}
+.activity img {
+	width: 100%
+}
+.aboutus {
+	padding: 50px 0 50px;
+}
+.protofol h3 {
+	font-size: 35px;
+}
+.Services h3 {
+	font-size: 35px;
+}
+.line img {
+	display: none;
+}
+.Beginnings {
+	width: 48%;
+}
+.about {
+	text-align: center;
+	margin-top: 0px;
+}
+.aboutimg {
+	width: 100%;
+}
+.aboutimg img {
+	margin-top: 60px;
+}
+.startup {
+	width: 100%;
+	margin-top: 30px;
+}
+.facing {
+	width: 55%;
+	margin-top: 30px;
+}
+.enter {
+	width: 100%;
+	margin-top: 30px;
+}
+.December {
+	width: 48%;
+	margin-top: 30px;
+}
+.february {
+	width: 55%;
+	margin-top: 30px;
+}
+.our {
+	width: 100%;
+	margin-top: 30px;
+}
+.next {
+	margin-top: 50px;
+}
+.teamwork h2 {
+	font-size: 35px;
+}
+.teamleader img {
+	width: 100%;
+}
+.notice p {
+	font-size: 14px;
+}
+.comptitle img {
+	width: 100%;
+}
+.contact h2 {
+	margin-top: 60px;
+}
+.contactus input {
+	font-size: 13px;
+	margin-top: 15px;
+	width: 86%;
+	min-height: 40px;
+}
+.message textarea {
+	font-size: 13px;
+	min-height: 153px;
+}
+.msgbutton a {
+	font-size: 14px;
+}
+.copy-right p {
+	font-size: 15px;
+}
+.social-left a i {
+	width: 46px;
+	float: right;
+}
+.images {
+	min-height: 630px;
+}
+.msgbutton a {
+	font-size: 14px;
+	width: 30%;
+}
+}
+ @media only screen and (min-width: 480px) and (max-width: 639px) {
+.filde {
+	background-color: #FFF;
+	padding: 20px 0;
+	margin-top: -7px;
+	width: 80%;
+	text-align: center;
+	margin: 0 auto;
+}
+#manu {
+	min-height: 500px;
+}
+.studio h3 {
+	font-size: 30px;
+}
+.studio h2 {
+	font-size: 40px;
+}
+.teamleader img {
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	width: 60%;
+}
+.more a {
+	font-size: 14px;
+	width: 30%;
+	padding: 15px 5px 15px;
+}
+.sitesaction {
+	padding: 50px 0 50px;
+}
+#project {
+	padding: 50px 0 50px;
+}
+#team {
+	padding: 50px 0 50px;
+}
+.protofol h3 {
+	font-size: 30px;
+}
+.activity img {
+	width: 80%;
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+}
+.activity {
+	margin: 30px 0 0;
+}
+#aboutus {
+	padding: 50px 0 50px;
+}
+.about {
+	text-align: center;
+	margin-top: 0px;
+}
+.line img {
+	display: none;
+}
+.aboutimg {
+	width: 100%;
+}
+.Beginnings {
+	width: 100%;
+	text-align: center;
+}
+.facing {
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+}
+.startup {
+	width: 100%;
+}
+.December {
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+}
+.enter {
+	width: 100%;
+}
+.february {
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+}
+.our {
+	width: 100%;
+}
+
+.next {
+	margin-top: 30px;
+}
+#teamleader img {
+	width: 100%;
+}
+.teamwork h2 {
+	font-size: 30px;
+}
+.notice p {
+	font-size: 14px;
+}
+.comptitle img {
+    text-align: center;
+    display: block;
+    margin: 15px auto;
+    width: 50%;
+}
+#compny {
+	padding: 40px 0 40px;
+}
+.contactus input {
+	font-size: 12px;
+	width: 85%;
+	min-height: 35px;
+}
+.message textarea {
+	font-size: 12px;
+	min-height: 137px;
+	width: 85%;
+}
+.msgbutton a {
+	font-size: 14px;
+	width: 33%;
+	padding: 14px 0 14px;
+}
+.copy-right p {
+	font-size: 15px;
+	text-align: center;
+}
+.social-left {
+	float: none;
+	text-align: center;
+}
+}
+
+/* Mobile */
+	@media only screen and (max-width: 479px) {
+.navbar-mini-menu .mini-menu-options li a {
+	padding: 10px 0;
+    font-size: 14px;
+    line-height: 24px;
+}
+.logo {
+	padding-top: 15px;
+}
+header.sticky{
+	padding:10px 0;
+}
+.filde {
+	background-color: #FFF;
+	padding: 20px 0;
+	margin-top: -1px;
+	width: 70%;
+	text-align: center;
+	margin: 0 auto;
+}
+.studio h3 {
+	font-size: 25px;
+}
+.studio h2 {
+	font-size: 40px;
+}
+.more a {
+	font-size: 10px;
+	padding: 10px 0 10px;
+	width: 40%;
+}
+#manu {
+	min-height: 200px;
+}
+.sitesaction {
+	padding: 50px 0 50px;
+}
+.Services h3 {
+	font-size: 35px;
+}
+#icon img {
+	padding-top: 30px;
+}
+#project {
+	padding: 50px 0 50px;
+}
+.protofol h3 {
+	font-size: 35px;
+}
+.activity {
+	margin: 40px 0 0;
+}
+.activity img {
+	width: 70%;
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+}
+#aboutus {
+	padding: 50px 0 50px;
+}
+.about {
+	text-align: center;
+	margin-top: 0px;
+}
+.about h3 {
+	font-size: 35px;
+}
+.line img {
+	display: none;
+}
+.aboutimg {
+	width: 100%;
+}
+.Beginnings {
+	width: 100%;
+	text-align: center;
+}
+.facing {
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+}
+.startup {
+	width: 100%;
+}
+.December {
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+}
+.enter {
+	width: 100%;
+}
+.february {
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+}
+.our {
+	width: 100%;
+}
+.next {
+	margin-top: 30px;
+}
+#team {
+	padding: 50px 0 50px;
+}
+.teamwork h2 {
+	font-size: 35px;
+}
+.notice p {
+	font-size: 14px;
+}
+.comptitle img {
+	text-align: center;
+	display: block;
+	margin: 15px auto;
+}
+#compny {
+	padding: 40px 0 40px;
+}
+.contactus input {
+	font-size: 15px;
+}
+.message textarea {
+	font-size: 15px;
+}
+.msgbutton a {
+	font-size: 10px;
+	padding: 10px 0 10px;
+	width: 40%;
+}
+.copy-right p {
+	font-size: 15px;
+	text-align: center;
+}
+.social-left {
+	float: none;
+	text-align: center;
+}
+.message textarea {
+	width: 90%;
+	min-height: 180px;
+}
+.contactus input {
+	width: 90%;
+	min-height: 30px;
+}
+.contact h2 {
+	font-size: 35px;
+	margin-top: 50px;
+}
+}
